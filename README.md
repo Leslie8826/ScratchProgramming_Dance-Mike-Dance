@@ -1,17 +1,25 @@
 # Lesson 2: Dance-Mike-Dance
 
-## Author: Leslie8826
+## Author:
+Leslie8826
 
+### Difficulty:
+Easy
+
+### Objectives:
+ - Students will be able to:
+    * make their sprite move horizontally (left and right)
+    * change the appearance of their sprite
+    * add some sound to their dancing animation
+    * learn how to repeat similar lines of codes
+ - Students will get familiar with:
+    * glide blocks
+    * "switch to costume" blocks
+    * "start sound" blocks
+    * repeat blocks
+
+### Outcome:
+Simple dance move to be repeated 
 https://scratch.mit.edu/projects/340091374
-
-Difficulty: Easy
-
-Objectives:
- - Use of glide blocks
- - Use of "switch to costume" blocks
- - Use of "start sound" blocks
- - Use of repeat blocks
-
-Outcome: simple dance move to be repeated 
 
 
