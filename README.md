@@ -10,3 +10,5 @@ Objectives:
  - Use of repeat blocks
 
 Outcome: simple dance move to be repeated 
+
+Press space bar to start animation
