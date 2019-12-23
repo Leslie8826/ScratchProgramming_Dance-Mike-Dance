@@ -1,4 +1,4 @@
-# Dance-Mike-Dance (Lesson 2)
+# Lesson 2: Dance-Mike-Dance
 
 ## Author: Leslie8826
 
@@ -14,4 +14,4 @@ Objectives:
 
 Outcome: simple dance move to be repeated 
 
-Press space bar to start animation
+
