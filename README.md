@@ -19,7 +19,7 @@ Easy
     * repeat blocks
 
 ### Outcome:
-Simple dance move to be repeated 
+Simple dance move to be repeated <br>
 https://scratch.mit.edu/projects/340091374
 
 
