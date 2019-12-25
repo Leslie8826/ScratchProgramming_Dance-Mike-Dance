@@ -1,4 +1,4 @@
-# Lesson 2: Dance-Mike-Dance
+# Lesson 2: Dance Mike, Dance!
 
 ## Author:
 Leslie8826
