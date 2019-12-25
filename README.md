@@ -6,6 +6,9 @@ Leslie8826
 ## Audience: 
 Middle School Students
 
+## Term:
+Fall 2019
+
 ### Difficulty:
 Easy
 
