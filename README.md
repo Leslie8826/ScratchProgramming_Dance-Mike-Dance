@@ -3,7 +3,7 @@
 ## Lesson 2: Dance Mike, Dance!
 
 ### Author
-Leslie8826 (Github platform)
+Leslie8826 (Github platform) <br>
 Leslie_Instructor (Scratch platform)
 
 ### Audience
