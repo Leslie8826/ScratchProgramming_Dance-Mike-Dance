@@ -1,20 +1,20 @@
 # Scratch Programming
 
-# Lesson 2: Dance Mike, Dance!
+## Lesson 2: Dance Mike, Dance!
 
-## Author
+### Author
 Leslie8826
 
-## Audience
+### Audience
 Middle School Students
 
-## Term
+### Term
 Fall 2019
 
-## Difficulty:
+### Difficulty:
 Easy
 
-## Objectives
+### Objectives
  - Students will be able to:
     * make their sprite move horizontally (left and right)
     * change the appearance of their sprite
@@ -26,7 +26,7 @@ Easy
     * "start sound" blocks
     * repeat blocks
 
-## Output
+### Output
 Simple dance move to be repeated <br>
 https://scratch.mit.edu/projects/340091374
 
